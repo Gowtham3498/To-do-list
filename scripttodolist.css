@@ -1,0 +1,52 @@
+body{
+    background-color: bisque;
+}
+
+#wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin:20vh auto 0 auto;
+    align-items: center;
+   
+   
+}
+#box{
+    width:500px;
+    height:400px;
+    background-color: rgb(59, 122, 124);
+   
+    
+    
+}
+#given input{
+    
+    width:80%;
+    padding: 7px 10px;
+    border-radius: 10px;
+    border: whitesmoke;
+    outline: none;
+    margin-left: 10px;
+
+}
+#btn{
+    padding:7px 15px;
+    background-color: bisque;
+    border-radius: 10px;
+}
+h2{
+    color:bisque;
+    text-align: center;
+}
+li{
+   list-style: none;
+    font-size: 20px;
+    color: white;
+    padding: 0;
+    margin: 15px;
+
+}
+span{
+    float:right;
+
+}
